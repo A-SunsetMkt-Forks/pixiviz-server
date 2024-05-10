@@ -7,7 +7,7 @@
     "declarations": true
   },
   "dependencies": {
-    "axios": "^0.26.1",
+    "axios": "^0.28.0",
     "cross-env": "^7.0.3",
     "egg": "^2.37.0",
     "egg-cors": "^2.2.3",
