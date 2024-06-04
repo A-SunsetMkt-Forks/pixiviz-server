@@ -7,10 +7,10 @@
     "declarations": true
   },
   "dependencies": {
-    "axios": "^0.26.1",
+    "axios": "^0.28.0",
     "cross-env": "^7.0.3",
-    "egg": "^2.37.0",
-    "egg-cors": "^2.2.3",
+    "egg": "^3.23.0",
+    "egg-cors": "^3.0.1",
     "egg-logrotator": "^3.1.0",
     "egg-redis": "^2.5.0",
     "egg-scripts": "^2.17.0",
@@ -24,11 +24,11 @@
   "devDependencies": {
     "autod": "^3.1.2",
     "autod-egg": "^1.1.0",
-    "egg-bin": "^4.20.0",
+    "egg-bin": "^6.9.0",
     "egg-ci": "^1.19.1",
     "egg-mock": "^4.2.1",
     "eslint": "^7.32.0",
-    "eslint-config-egg": "^9.0.0"
+    "eslint-config-egg": "^13.1.0"
   },
   "engines": {
     "node": ">=10.0.0"
